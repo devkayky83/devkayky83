@@ -27,10 +27,9 @@
  <a href="https://github.com/devkayky83" target="_blank"><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" target="_blank"></a>
  
    <a href="https://www.linkedin.com/in/kayky-júnio-925702248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div> 
   
      ![Snake animation](https://github.com/devkayky83/devkayky83/blob/output/github-contribution-grid-snake.svg)
-
+</div>
   
   
   
