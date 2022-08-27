@@ -5,7 +5,7 @@
 - 📚 Atualmente estudando C++, HTML e CSS
 - 👨‍🎓 Procuro colaborar com a minha própria evolução e aprendizado
 - 📫 Como me contatar: dev.kayky33@gmail.com
-- 💻 Faculdade: Sistemas de Informação
+- 💻 Formação: Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/devkayky83">
