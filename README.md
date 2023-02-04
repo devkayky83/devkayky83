@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente estudando C++, HTML, CSS e React
+- 📚 Atualmente estudando C++, HTML, CSS e REACT
 - 👨‍🎓 Procuro colaborar com a minha própria evolução e aprendizado
 - 📫 Como me contatar: dev.kayky33@gmail.com
 - 💻 Formação: Sistemas de Informação
