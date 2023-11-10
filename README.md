@@ -26,7 +26,7 @@
  
   ##
   
-  <div align-itens= "center"> 
+  <div align= "center"> 
  <a href="https://github.com/devkayky83" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
  <a href="https://github.com/devkayky83" target="_blank"><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" target="_blank"></a>
  
