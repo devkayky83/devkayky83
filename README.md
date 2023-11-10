@@ -14,7 +14,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkayky83&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
-<h1 align="center" text-height="10">Tecnologias que uso no meu dia a dia</h1>
+<h1 align="center">Tecnologias que uso no meu dia a dia</h1>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -26,7 +26,7 @@
  
   ##
   
-  <div> 
+  <div align-itens= "center"> 
  <a href="https://github.com/devkayky83" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
  <a href="https://github.com/devkayky83" target="_blank"><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" target="_blank"></a>
  
