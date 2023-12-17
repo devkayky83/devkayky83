@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente em estudo: C++, HTML, CSS, Javascript e Banco de Dados
+- 📚 Atualmente em estudo: C++, Java, HTML, CSS, Javascript e Banco de Dados
 - 👨‍🎓 Procuro colaborar com a minha própria evolução e aprendizado
 - 📫 Como me contatar: dev.kayky33@gmail.com
 - 💻 Formação: Sistemas de Informação
