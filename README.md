@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente: C++, Python, HTML, CSS, Javascript e Banco de Dados
+- 📚 Atualmente: C++, Python, HTML, CSS, Javascript e PostgreeSql
 - 👨‍🎓 Procuro colaborar com a minha própria evolução e aprendizado
 - 📫 Como me contatar: dev.kayky33@gmail.com
 - 💻 Formação: Sistemas de Informação
@@ -14,7 +14,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkayky83&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
-<h1 align="center">Tecnologias que uso no meu dia a dia</h1>
+<h1 align="center">Skills</h1>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -28,7 +28,7 @@
   ##
   
   <div align= "center"> 
-  <h2 align="center" font-size: 50px>Minhas Redes Sociais</h2>
+  <h2 align="center" font-size: 50px>Social Media</h2>
   <a href="https://www.linkedin.com/in/kayky-júnio-925702248/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kaykzz_007/" target="_blank">
