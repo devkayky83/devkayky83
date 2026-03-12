@@ -1,15 +1,14 @@
 # Kayky Júnio — Desenvolvedor
 
-> Desenvolvedor em formação em Sistemas de Informação — focado em back-end, análise de dados, bancos de dados e aplicações web.
+> Desenvolvedor em Sistemas de Informação — focado em back-end, análise de dados, bancos de dados e aplicações web.
 
 ---
 
 ## Sobre mim
 
-- **Formação:** Sistemas de Informação
+- **Formação:** Sistemas de Informação pelo IFMG-SJE
 - **Atualmente estudando / usando:** C++, Python, HTML, CSS, JavaScript, PostgreSQL
 - **Objetivo:** Evoluir continuamente como desenvolvedor, colaborar em projetos reais e transformar aprendizado em soluções úteis para ambientes profissionais.
-- **Contato:** dev.kayky33@gmail.com
 
 ---
 
@@ -20,16 +19,30 @@
 
 ---
 
-## Tecnologias e Skills
-<br>
 <div align="center">
 
-<img alt="C++" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />
-<img alt="Python" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="HTML5" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img alt="CSS3" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img alt="JavaScript" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img alt="PostgreSQL" height="64" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<h2> &nbsp;Back-End</h2>
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastApi](https://img.shields.io/badge/-FastApi-333333?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+
+
+<h2> &nbsp;Front-End</h2>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+
+<h2> &nbsp;Banco de Dados</h2>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy)
+
 
 </div>
 <br>
@@ -63,7 +76,7 @@
 
 ---
 
-## Como executar localmente (exemplo genérico para projetos Python/Django)
+## Como executar localmente (exemplo genérico para projetos Python)
 
 ```bash
 # clonar repositório
@@ -88,9 +101,9 @@ python manage.py runserver
 
 ## Contato e redes
 
-- [LinkedIn](https://www.linkedin.com/in/kay-dev/)
-- [Instagram](https://www.instagram.com/kaykz007/)
-- [GitHub](https://github.com/devkayky83)
-- Email: dev.kayky33@gmail.com
+<div align="left">
+<a href="https://www.linkedin.com/in/kay-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:devkayky33@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
 
 ---
