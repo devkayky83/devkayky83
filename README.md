@@ -10,11 +10,11 @@
 - **Atualmente estudando / usando:** C++, Python, HTML, CSS, JavaScript, PostgreSQL
 - **Objetivo:** Evoluir continuamente como desenvolvedor, colaborar em projetos reais e transformar aprendizado em soluções úteis para ambientes profissionais.
 
----
+---codeSTACKr
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=devkayky83&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkayky83&layout=compact&langs_count=7&theme=codeSTACKr" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devkayky83&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkayky83&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />   
 </div>
 
 ---
