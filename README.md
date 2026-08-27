@@ -13,9 +13,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkayky83&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkayky83&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>   
+  <img src="https://github-stats-extended.vercel.app/api?username=devkayky83&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devkayky83&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>      
 
 ---
 
