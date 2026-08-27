@@ -16,6 +16,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: devkayky83
           filename: github-metrics.svg
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_sections: most-used      
+          base: header, activity, community, repositories   
